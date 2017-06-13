@@ -1,5 +1,5 @@
 <?php
-	
+	// test git 1
 	define('USER_', 'op3');
 	define('CROSS_PAGE_MESSAGE_', 'xu6');
 	define('IS_MOBILE_', 'vk1');
